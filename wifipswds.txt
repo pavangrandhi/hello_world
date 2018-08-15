@@ -6,3 +6,4 @@
 6. belkin.f85  : 9916661155
 7. knc : 7795672607
 8. pavan = wifi
+9. wlan
