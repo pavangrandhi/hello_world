@@ -7,4 +7,5 @@
 7. knc : 7795672607
 8. pavan = wifi
 9. wlan
+10. python
 11. perl
